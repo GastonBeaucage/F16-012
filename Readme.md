@@ -1,1 +1,1 @@
-BCCSS Project
+COMP 3900 BCCSS Project 
